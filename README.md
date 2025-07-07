@@ -11,7 +11,8 @@ This tutorial demonstrates how to set up and manage an on-premises-style Active 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+- Group Policy Management Console
+- Command Line
 
 <h2>Prequisites</h2>
   
