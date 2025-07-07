@@ -20,10 +20,11 @@ This tutorial demonstrates how to set up and manage an on-premises-style Active 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- 🔐 Dealing with Account Lockouts
+- ⚙️ Configuring Group Policy for Lockouts
+- 🔓 Unlocking and Resetting Accounts
+- 🚫 Enabling and Disabling User Accounts
+- 📊 Observing Security Logs (DC & Client)
 
 <h2>Configuring an account lockout policy</h2>
 
