@@ -13,6 +13,11 @@ This tutorial demonstrates how to set up and manage an on-premises-style Active 
 - Active Directory Domain Services
 - PowerShell
 
+  <h2>Environments and Technologies Used</h2>
+  
+- Preparing on-premises Active Directory within Azure VMs
+- Configuring on-premises Active Directory within Azure VMs
+
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
