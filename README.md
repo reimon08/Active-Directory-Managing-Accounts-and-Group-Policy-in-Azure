@@ -18,6 +18,10 @@ This tutorial demonstrates how to set up and manage an on-premises-style Active 
 - Windows Server 2022
 - Windows 10 (22H2)
 
+<h2>Prequisites</h2>
+- Preparing on-premises Active Directory within Azure VMs
+- Configuring on-premises Active Directory within Azure VMs
+
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - 🔐 Dealing with Account Lockouts
