@@ -154,7 +154,11 @@ https://github.com/user-attachments/assets/9e072f04-c839-4835-a201-78db26ebab35
 https://github.com/user-attachments/assets/1996b164-c6ef-490f-bcaa-dcf0e5746aa3
 
 
+<h2>Conclusion</h2>
 
+<p>This wraps up the project on account lockout policies, user access control, and log monitoring in Active Directory. We walked through setting up lockout thresholds, testing failed logins, unlocking and resetting accounts, and even enabling/disabling users. On top of that, we used Event Viewer to track everything in real time from both the domain controller and the client. This lab gave a solid look at how account security works in a real environment and laid the groundwork for more advanced user and group policy management.
+
+</p>
 
 
 
